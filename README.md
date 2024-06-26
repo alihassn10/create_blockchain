@@ -18,8 +18,8 @@ This project demonstrates the basics of blockchain technology using a simple Pyt
 
 Clone the repository:
 ```bash
-git clone https://github.com/alihassn10/blockchain-intuition.git
-cd blockchain-intuition
+git clone https://github.com/alihassn10/create_blockchain.git
+cd create_blockchain
 ```
 Install the required Python packages:
 ```bash
